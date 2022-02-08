@@ -11,7 +11,7 @@ role: Research Assistant
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Wigner Research Centre for Physics
-  url: https://www.stanford.edu/
+  url: https://wigner.hu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -44,19 +44,23 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: "mailto:kareemessafty@gmail.com"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/kero_qml
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=GYfnTAIAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/kareem1925/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/kareemelsafty/
+- icon: acclaim
+  icon_pack: ai
+  link: https://www.credly.com/users/kareem-elsafty
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
