@@ -7,8 +7,8 @@
 
 theme: coffee
 day_night: true
-font: mrrobot
-font_size: L
+font: classic
+font_size: M
 
 # SEO
 
