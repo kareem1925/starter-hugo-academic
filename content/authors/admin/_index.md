@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Kareem H. El-Safty
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
+- name: Wigner Research Centre for Physics
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -19,8 +19,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Quantum Machine Learning
+- Quantum Computing
+- Quantum Photonics
+- Computer Vision
 
 # Education to show in About widget
 education:
@@ -45,7 +47,7 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/kero_qml
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
