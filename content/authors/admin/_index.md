@@ -27,7 +27,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: MSc Candidate
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
