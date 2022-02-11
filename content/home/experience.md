@@ -68,5 +68,6 @@ experience:
 
 
 design:
+  view: Card
   columns: '2'
 ---
