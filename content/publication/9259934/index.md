@@ -12,7 +12,11 @@ authors:
 - Tamás Kozsik
 - Adam Glos
 - Zoltán Zimborás
-tags: []
+tags:
+- Qaoa
+- Graph coloring
+- Quantum annealing
+- Quantum circuits
 categories: []
 date: '2020-01-01'
 lastmod: 2022-02-11T08:38:50+02:00
@@ -33,11 +37,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-11T06:38:50.277134Z'
+publishDate: '2022-02-11T16:34:47.404081Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*2020 IEEE International Conference on Quantum Computing and Engineering
   (QCE)*'
 doi: 10.1109/QCE49297.2020.00018
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/document/9259934
 ---

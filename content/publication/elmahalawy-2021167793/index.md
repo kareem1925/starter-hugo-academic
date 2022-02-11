@@ -9,8 +9,11 @@ authors:
 - Ahmed M. El-Mahalawy
 - Kareem H. El-Safty
 tags:
-- Organic Semiconductors – Heterojunction Photodiode – Machine Learning – Genetic
-  Programming – Quantum Machine Learning
+- Organic semiconductors
+- Heterojunction photodiode
+- Machine learning
+- Genetic programming
+- Quantum machine learning
 categories: []
 date: '2021-01-01'
 lastmod: 2022-02-11T08:38:50+02:00
@@ -31,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-11T06:38:50.471567Z'
+publishDate: '2022-02-11T16:34:47.620846Z'
 publication_types:
 - '2'
 abstract: Due to the pivotal role of UV photodiodes in many technological applications
