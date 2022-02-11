@@ -10,11 +10,13 @@ role: Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Wigner Research Centre for Physics
+- name: Wigner Research Centre for Physics 
   url: https://wigner.hu/
+- name: Alexandria Quantum Computing Group
+  url: http://www.sci.p.alexu.edu.eg/~aleqcg/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Research Assistant
 
 # Interests to show in About widget
 interests:
@@ -27,15 +29,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MSc Candidate
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Quantum Computing Technologies
+    institution: Universidad Politécnica de Madrid
+    year: 2021/2022
+  - course: MSc in Computer Engineering
+    institution: Suez Canal University
+    year: 2020/2023
+  - course: Artificial Intelligence Nanodegree
+    institution: Udacity
+    year: 2018
+  - course: BSc in Communications & Electronics Engineering
+    institution: Suez Canal University
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
