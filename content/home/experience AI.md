@@ -26,7 +26,7 @@ experience:
     company: Information Technology Institute (ITI)
     company_url: https://www.iti.gov.eg/iti/home
     company_logo: iti
-    location: California
+    location: Egypt
     date_start: '2021-08-01'
     date_end: ''
     description: Taught supervised and unsupervised learning algorithms.

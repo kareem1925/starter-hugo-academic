@@ -58,4 +58,6 @@ doi: https://doi.org/10.1016/j.ijleo.2021.167793
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S0030402621013826
+- name: code
+  url: https://github.com/kareem1925/Classical-and-quantum-regression-analysis-for-the-optoelectronic-performance-of-NTCDA
 ---

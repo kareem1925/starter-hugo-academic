@@ -27,6 +27,8 @@ interests:
 - Quantum Computing
 - Quantum Photonics
 - Computer Vision
+- Kernel Theory
+- AutoML
 
 # Education to show in About widget
 education:
@@ -70,6 +72,10 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-8740-0637
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Kareem-El-Safty
+
 
 
 # Link to a PDF of your resume/CV.
@@ -86,11 +92,22 @@ email: ""
 highlight_name: true
 ---
 <div style="text-align: justify">
-Kareem is a quantum machine learning researcher with a unique interdisciplinary scientific background. He has a B.Sc in Communications & Electronics Engineering alongside an interesting record of online courses in machine learning, physics, and programming. He has around 4 years of experience in Computer and Machine Vision systems at DevisionX and two years of experience in being a machine learning instructor.
+Kareem is a quantum machine learning researcher with a unique interdisciplinary scientific background. He has a B.Sc in Communications & Electronics Engineering alongside an interesting record of online courses in machine learning, physics, and programming. He has around 4 years of experience in Computer and Machine Vision systems at <a href="https://devisionx.com/" target="_blank">DevisionX</a> and two years of experience in being a machine learning instructor.
 <br/><br/>
-Alongside his machine learning career, he self-taught about quantum computing and managed to become a researcher at the Alexandria Quantum Computing group. Then he became a Qiskit Advocate. After that, he earned a position as a research assistant at Wigner Research Centre for Physics to focus on Photonic Quantum Computation.
+Alongside his machine learning career, he taught himself about quantum computing and managed to become a researcher at the Alexandria Quantum Computing group. Then he became a Qiskit Advocate. After that, he earned a position as a research assistant at <a href="https://wigner.hu/" target="_blank">Wigner Research Centre for Physics</a> to focus on Photonic Quantum Computation.
 <br/><br/>
-Currently, he is doing two master's degrees: a one-year MSc in Quantum Computing Technologies at Universidad Politécnica de Madrid that will finish later in 2022, and the other one is in Computer Engineering at Suez Canal University that is expected to be finished in 2023. 
+Currently, he is doing two master's degrees: an MSc in <a href="https://quantum-explore.com/en/master/" target="_blank">Quantum Computing Technologies at Universidad Politécnica de Madrid</a> that will finish later in 2022, and the other one is in Computer Engineering at Suez Canal University that is expected to be finished in 2023.
 </div>
 <br/>
+
+<div style="text-align: justify">
+In short, I love <b><i>Physics</i></b> and I'm aspiring to be a theoretical physicist one day!
+</div>
+<br/>
+<div style="text-align: justify">
+Right now, I'm involved in developing a quantum photonic simulator called <a href="https://piquasso.com/" target="_blank">Piquasso</a>, I'm mostly interested in quantum feature maps and their profound implications on quantum varitional circuits, and I'm open to collaborate.
+</div>
+Below, you can download my resume and on the left you will find my social media accounts.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
