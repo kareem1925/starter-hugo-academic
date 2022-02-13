@@ -33,6 +33,15 @@ item:
   title: 'Qiskit Advocate'
   url: https://qiskit.org/advocates/
 
+- certificate_url: https://www.credly.com/badges/34076e28-5dbd-4827-8b62-1840c2099265
+  date_end: ""
+  date_start: "2021-11-29"
+  description: For more detials please check <a href="https://www.ibm.com/training/certification/C0010300" target="_blank">here</a>
+  organization: ibm
+  organization_url: https://www.ibm.com/eg-en
+  title: 'Qiskit Developer'
+  url: https://www.ibm.com/training/certification/C0010300
+
 - certificate_url: 
   date_end: "2021-12-31"
   date_start: "2020-09-01"
