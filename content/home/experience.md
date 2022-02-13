@@ -47,7 +47,7 @@ experience:
     date_start: '2019-11-01'
     date_end: ''
     description: |2-
-        **Responsibilities include:**
+        Responsibilities include:
         * Handling the publicity of the group.
         * Organized Alexandria Quantum Computing Winter School 2021 <a href="http://www.sci.p.alexu.edu.eg/~aleqcg/AlexU-QCWS21.htm" target="_blank">AQCWS21</a>
         *  Prepared and Organized a <a href="http://www.sci.p.alexu.edu.eg/~aleqcg/InvitedTalks.html" target="_blank">workshop</a> during AQCWS21.
