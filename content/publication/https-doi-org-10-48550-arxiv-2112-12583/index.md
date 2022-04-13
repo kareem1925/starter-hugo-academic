@@ -1,25 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Quantum Optimization for the Graph Coloring Problem with Space-Efficient Embedding
+title: Calculating Nash equilibrium and Nash bargaining solution on quantum annealers
 subtitle: ''
 summary: ''
 authors:
-- Zsolt Tabi
+- Olga Okrut
+- Keith Cannon
+- Faisal Shah Khan
 - Kareem H. El-Safty
-- Zsófia Kallus
-- Péter Hága
-- Tamás Kozsik
-- Adam Glos
-- Zoltán Zimborás
+- Nada Elsokkary
 tags:
-- QAOA
-- graph coloring
-- quantum annealing
-- quantum circuits
+- Quantum Game Theory
+- Nash Equilibrium
+- Quadratic Unconstrained Binary Optimization
 categories: []
-date: '2020-01-01'
-lastmod: 2022-02-11T08:38:50+02:00
+date: '2022-01-01'
+lastmod: 2022-04-13T19:11:34+02:00
 featured: false
 draft: false
 
@@ -37,14 +34,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-13T17:14:42.309646Z'
+publishDate: '2022-04-13T17:14:42.851476Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*2020 IEEE International Conference on Quantum Computing and Engineering
-  (QCE)*'
-doi: 10.1109/QCE49297.2020.00018
+publication: '*arXiv*'
+doi: 10.48550/ARXIV.2112.12583
 links:
 - name: URL
-  url: https://ieeexplore.ieee.org/document/9259934
+  url: https://arxiv.org/abs/2112.12583
 ---

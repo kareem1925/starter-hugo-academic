@@ -9,11 +9,11 @@ authors:
 - Ahmed M. El-Mahalawy
 - Kareem H. El-Safty
 tags:
-- Organic semiconductors
-- Heterojunction photodiode
-- Machine learning
-- Genetic programming
-- Quantum machine learning
+- Organic Semiconductors
+- Heterojunction Photodiode
+- Machine Learning
+- Genetic Programming
+- Quantum Machine Learning
 categories: []
 date: '2021-01-01'
 lastmod: 2022-02-11T08:38:50+02:00
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-11T16:34:47.620846Z'
+publishDate: '2022-04-13T17:14:42.592132Z'
 publication_types:
 - '2'
 abstract: Due to the pivotal role of UV photodiodes in many technological applications
@@ -58,6 +58,4 @@ doi: https://doi.org/10.1016/j.ijleo.2021.167793
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S0030402621013826
-- name: code
-  url: https://github.com/kareem1925/Classical-and-quantum-regression-analysis-for-the-optoelectronic-performance-of-NTCDA
 ---
