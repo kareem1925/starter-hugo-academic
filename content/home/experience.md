@@ -33,12 +33,28 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        * Quantum Computing (Research, Software)
-        * Quantum Machine Learning.
-        * Continuous Variable (CV) for Optimization Problems.
+        * Review, document new Quantum Machine Learning algorithms.
+        * Learnt and used the Continuous Variable (CV) for Optimization
+        Problems.
+
         * Built quantum simulator for (CV) systems. <a href="https://piquasso.com/" target="_blank">Piquasso</a>
 
-        
+experience:
+  - title: Researcher, Quantum Computing 
+    company: Dark Star Quantum Lab Inc 
+    company_url: 'https://https://www.darkstarquantumlab.com/'
+    company_logo: darkstar
+    location:  USA
+    date_start: '2022-04-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        * Developed the code for the Non-Cooperative game theory and
+        Nash equilibrium <a href="https://arxiv.org/abs/2112.12583" target="_blank">paper</a> for quantum annealing.
+        * Investigating Gaussian Boson Sampling for optimization
+        problems.
+
+
   - title: Researcher
     company: Alexandria Univeristy | <a href="http://www.sci.p.alexu.edu.eg/~aleqcg/profiles/younes/Ahmed_Younes.html" target="_blank">Alexandria Quantum Computing Group led by Ahmed Younes</a>
     company_url: http://www.sci.p.alexu.edu.eg/~aleqcg/

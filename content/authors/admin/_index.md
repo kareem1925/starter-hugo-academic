@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MSc in Quantum Computing Technologies
+  - course: MSc Candidate in Quantum Computing Technologies
     institution: Universidad Politécnica de Madrid
     year: 2021/2022
   - course: MSc in Computer Engineering
