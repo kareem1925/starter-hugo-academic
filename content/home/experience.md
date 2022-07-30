@@ -37,10 +37,9 @@ experience:
         * Review, document new Quantum Machine Learning algorithms.
         * Learnt and used the Continuous Variable (CV) for Optimization
         Problems.
-
         * Built quantum simulator for (CV) systems. <a href="https://piquasso.com/" target="_blank">Piquasso</a>
 
-experience:
+
   - title: Researcher, Quantum Computing 
     company: Dark Star Quantum Lab Inc 
     company_url: 'https://https://www.darkstarquantumlab.com/'
