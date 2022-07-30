@@ -23,6 +23,7 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
   - title: Research Assistant 
     company: Wigner Research Centre for Physics | <a href="https://wigner.hu/en/infopages/zimboras.zoltan/" target="_blank">Quantum computing and informatics research group Group led by Zoltán Zimborás</a>
